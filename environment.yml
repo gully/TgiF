@@ -1,0 +1,20 @@
+name: TgiF
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
+  - tqdm
+  - pandas
+  - jupyter
+  - ipython
+  - seaborn # optional
+  - scikit-learn
+  - pip
+  - pip:
+    - jax
+    - jaxlib
+    #- fbpca
