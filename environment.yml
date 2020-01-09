@@ -6,13 +6,13 @@ dependencies:
   - python=3.7
   - numpy
   - scipy
-  - matplotlib
+  - matplotlib>3.1.1
   - astropy
   - tqdm
   - pandas
   - jupyter
   - ipython
-  - seaborn # optional
+  - seaborn 
   - scikit-learn
   - pip
   - pip:
